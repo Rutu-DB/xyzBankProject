@@ -1,0 +1,197 @@
+<html>
+<head>
+<title>TestNG:  All Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>All Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Dec 03 21:09:10 GMT 2020</td>
+</tr>
+<tr><td>Total time:</td><td>48 seconds (48281 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.bank.testsuite.BankTest.bankManagerShouldAddCustomerSuccessfully()'><b>bankManagerShouldAddCustomerSuccessfully</b><br>Test class: com.bank.testsuite.BankTest<br/>
+<a href="#Output-1293241549" onClick='toggleBox("Output-1293241549", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1293241549" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1293241549">
+Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br><br/>
+Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br><br/>
+Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br><br/>
+Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br><br/>
+send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br><br/>
+Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br><br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.bank.testsuite.BankTest@edf4efb</td></tr>
+<tr>
+<td title='com.bank.testsuite.BankTest.bankManagerShouldOpenAccountSuccessfully()'><b>bankManagerShouldOpenAccountSuccessfully</b><br>Test class: com.bank.testsuite.BankTest<br/>
+<a href="#Output-429353573" onClick='toggleBox("Output-429353573", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-429353573" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-429353573">
+Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br><br/>
+Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br><br/>
+Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br><br/>
+Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br><br/>
+send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br><br/>
+Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br><br/>
+Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Selects Currency Drop Down By.xpath: //select[@id='currency']<br><br/>
+Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br><br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.bank.testsuite.BankTest@edf4efb</td></tr>
+<tr>
+<td title='com.bank.testsuite.BankTest.customerShouldDepositMoneySuccessfully()'><b>customerShouldDepositMoneySuccessfully</b><br>Test class: com.bank.testsuite.BankTest<br/>
+<a href="#Output-1976401987" onClick='toggleBox("Output-1976401987", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1976401987" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1976401987">
+Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br><br/>
+Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br><br/>
+Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br><br/>
+Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br><br/>
+send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br><br/>
+Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br><br/>
+Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Selects Currency Drop Down By.xpath: //select[@id='currency']<br><br/>
+Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br><br/>
+clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br><br/>
+deposit money By.xpath: //div[@class='form-group']/input<br><br/>
+clicking on depositBy.xpath: //form[@name='myForm']/button<br><br/>
+get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br><br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.bank.testsuite.BankTest@edf4efb</td></tr>
+<tr>
+<td title='com.bank.testsuite.BankTest.customerShouldLoginAndLogoutSuccessfully()'><b>customerShouldLoginAndLogoutSuccessfully</b><br>Test class: com.bank.testsuite.BankTest<br/>
+<a href="#Output-2047984839" onClick='toggleBox("Output-2047984839", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2047984839" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2047984839">
+Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br><br/>
+Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br><br/>
+Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br><br/>
+Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br><br/>
+send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br><br/>
+Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br><br/>
+verification of logout btn By.xpath: //button[contains(text(),'Logout')]<br><br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.bank.testsuite.BankTest@edf4efb</td></tr>
+<tr>
+<td title='com.bank.testsuite.BankTest.customerShouldWithdrawMoneySuccessfully()'><b>customerShouldWithdrawMoneySuccessfully</b><br>Test class: com.bank.testsuite.BankTest<br/>
+<a href="#Output-511651343" onClick='toggleBox("Output-511651343", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-511651343" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-511651343">
+Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br><br/>
+Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br><br/>
+Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br><br/>
+Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br><br/>
+send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br><br/>
+Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br><br/>
+Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Selects Currency Drop Down By.xpath: //select[@id='currency']<br><br/>
+Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br><br/>
+clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br><br/>
+deposit money By.xpath: //div[@class='form-group']/input<br><br/>
+clicking on depositBy.xpath: //form[@name='myForm']/button<br><br/>
+get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br><br/>
+Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br><br/>
+Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br><br/>
+clicking on Withdrawal btnBy.xpath: //button[3][contains(text(),'Withdraw')]<br><br/>
+enter Withdrawal amountBy.xpath: //div[@class='form-group']/input<br><br/>
+clicking on WithdrawalBy.xpath: //form[@name='myForm']/button<br><br/>
+get message to verifyBy.xpath: //span[contains(text(),'Transaction successful')]<br><br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.bank.testsuite.BankTest@edf4efb</td></tr>
+</table><p>
+</body>
+</html>

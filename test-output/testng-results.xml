@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[deposit money By.xpath: //div[@class='form-group']/input<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on depositBy.xpath: //form[@name='myForm']/button<br>]]>
+    </line>
+    <line>
+      <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[verification of logout btn By.xpath: //button[contains(text(),'Logout')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+    </line>
+    <line>
+      <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[deposit money By.xpath: //div[@class='form-group']/input<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on depositBy.xpath: //form[@name='myForm']/button<br>]]>
+    </line>
+    <line>
+      <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on Withdrawal btnBy.xpath: //button[3][contains(text(),'Withdraw')]<br>]]>
+    </line>
+    <line>
+      <![CDATA[enter Withdrawal amountBy.xpath: //div[@class='form-group']/input<br>]]>
+    </line>
+    <line>
+      <![CDATA[clicking on WithdrawalBy.xpath: //form[@name='myForm']/button<br>]]>
+    </line>
+    <line>
+      <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Transaction successful')]<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="testsuite" duration-ms="48281" started-at="2020-12-03T21:09:10Z" finished-at="2020-12-03T21:09:58Z">
+    <groups>
+    </groups>
+    <test name="All Test" duration-ms="48281" started-at="2020-12-03T21:09:10Z" finished-at="2020-12-03T21:09:58Z">
+      <class name="com.bank.testsuite.BankTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="setUp" is-config="true" duration-ms="8166" started-at="2020-12-03T21:09:10Z" finished-at="2020-12-03T21:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bankManagerShouldAddCustomerSuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="bankManagerShouldAddCustomerSuccessfully" duration-ms="684" started-at="2020-12-03T21:09:18Z" finished-at="2020-12-03T21:09:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldAddCustomerSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="tearDown" is-config="true" duration-ms="608" started-at="2020-12-03T21:09:18Z" finished-at="2020-12-03T21:09:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="setUp" is-config="true" duration-ms="6695" started-at="2020-12-03T21:09:19Z" finished-at="2020-12-03T21:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="bankManagerShouldOpenAccountSuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="bankManagerShouldOpenAccountSuccessfully" duration-ms="1948" started-at="2020-12-03T21:09:26Z" finished-at="2020-12-03T21:09:28Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- bankManagerShouldOpenAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="tearDown" is-config="true" duration-ms="651" started-at="2020-12-03T21:09:28Z" finished-at="2020-12-03T21:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="setUp" is-config="true" duration-ms="6404" started-at="2020-12-03T21:09:28Z" finished-at="2020-12-03T21:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="customerShouldDepositMoneySuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="customerShouldDepositMoneySuccessfully" duration-ms="2898" started-at="2020-12-03T21:09:35Z" finished-at="2020-12-03T21:09:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[deposit money By.xpath: //div[@class='form-group']/input<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on depositBy.xpath: //form[@name='myForm']/button<br>]]>
+            </line>
+            <line>
+              <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldDepositMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="tearDown" is-config="true" duration-ms="657" started-at="2020-12-03T21:09:38Z" finished-at="2020-12-03T21:09:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="setUp" is-config="true" duration-ms="7439" started-at="2020-12-03T21:09:38Z" finished-at="2020-12-03T21:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="customerShouldLoginAndLogoutSuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="customerShouldLoginAndLogoutSuccessfully" duration-ms="1111" started-at="2020-12-03T21:09:46Z" finished-at="2020-12-03T21:09:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[verification of logout btn By.xpath: //button[contains(text(),'Logout')]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldLoginAndLogoutSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="tearDown" is-config="true" duration-ms="628" started-at="2020-12-03T21:09:47Z" finished-at="2020-12-03T21:09:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="setUp" is-config="true" duration-ms="6241" started-at="2020-12-03T21:09:47Z" finished-at="2020-12-03T21:09:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="customerShouldWithdrawMoneySuccessfully()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="customerShouldWithdrawMoneySuccessfully" duration-ms="3453" started-at="2020-12-03T21:09:54Z" finished-at="2020-12-03T21:09:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicks on Managers Login Button By.xpath: //button[contains(text(),'Bank Manager Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add Customer Button By.xpath: //div[@class='center']//button[@ng-class='btnClass1']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Click on Add First Name Field By.xpath: //div[@class='form-group']//input[@placeholder='First Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Sends text to LastName Field By.xpath: //div[@class='form-group']//input[@placeholder='Last Name']<br>]]>
+            </line>
+            <line>
+              <![CDATA[send text to PostCode Field By.xpath: //div[@class='form-group']//input[@placeholder='Post Code']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Add to Customer ButtonBy.xpath: //button[@type='submit']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Open Account Button By.xpath: //div[@class='center']//button[@ng-class='btnClass2']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Currency Drop Down By.xpath: //select[@id='currency']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Process Button By.xpath: //button[contains(text(),'Process')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on depositBy.xpath: //button[2][contains(text(),'Deposit')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[deposit money By.xpath: //div[@class='form-group']/input<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on depositBy.xpath: //form[@name='myForm']/button<br>]]>
+            </line>
+            <line>
+              <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Deposit Successful')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Selects Customer Name from Drop Down By.xpath: //select[@id='userSelect']<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicks on Login Button By.xpath: //button[contains(text(),'Login')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on Withdrawal btnBy.xpath: //button[3][contains(text(),'Withdraw')]<br>]]>
+            </line>
+            <line>
+              <![CDATA[enter Withdrawal amountBy.xpath: //div[@class='form-group']/input<br>]]>
+            </line>
+            <line>
+              <![CDATA[clicking on WithdrawalBy.xpath: //form[@name='myForm']/button<br>]]>
+            </line>
+            <line>
+              <![CDATA[get message to verifyBy.xpath: //span[contains(text(),'Transaction successful')]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- customerShouldWithdrawMoneySuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bank.testsuite.BankTest@edf4efb]" name="tearDown" is-config="true" duration-ms="673" started-at="2020-12-03T21:09:57Z" finished-at="2020-12-03T21:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bank.testsuite.BankTest -->
+    </test> <!-- All Test -->
+  </suite> <!-- testsuite -->
+</testng-results>
